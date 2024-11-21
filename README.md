@@ -18,10 +18,15 @@ Find the detailed project presentation [here](https://github.com/fazilahd/Drowsi
 
 ## Requirements
 Python 3.x
+
 OpenCV
+
 Keras
+
 TensorFlow
+
 Pygame
+
 NumPy
-csharp
-Copy code
+
+
